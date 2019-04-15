@@ -1,0 +1,14 @@
+C:\Users\Steven\Source\OrderedMvcActionMethods\bin\Debug\netcoreapp2.2\OrderedMvcActionMethods.deps.json
+C:\Users\Steven\Source\OrderedMvcActionMethods\bin\Debug\netcoreapp2.2\OrderedMvcActionMethods.runtimeconfig.json
+C:\Users\Steven\Source\OrderedMvcActionMethods\bin\Debug\netcoreapp2.2\OrderedMvcActionMethods.runtimeconfig.dev.json
+C:\Users\Steven\Source\OrderedMvcActionMethods\bin\Debug\netcoreapp2.2\OrderedMvcActionMethods.dll
+C:\Users\Steven\Source\OrderedMvcActionMethods\bin\Debug\netcoreapp2.2\OrderedMvcActionMethods.pdb
+C:\Users\Steven\Source\OrderedMvcActionMethods\obj\Debug\netcoreapp2.2\OrderedMvcActionMethods.csprojAssemblyReference.cache
+C:\Users\Steven\Source\OrderedMvcActionMethods\obj\Debug\netcoreapp2.2\OrderedMvcActionMethods.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Source\OrderedMvcActionMethods\obj\Debug\netcoreapp2.2\OrderedMvcActionMethods.RazorAssemblyInfo.cache
+C:\Users\Steven\Source\OrderedMvcActionMethods\obj\Debug\netcoreapp2.2\OrderedMvcActionMethods.RazorAssemblyInfo.cs
+C:\Users\Steven\Source\OrderedMvcActionMethods\obj\Debug\netcoreapp2.2\OrderedMvcActionMethods.AssemblyInfoInputs.cache
+C:\Users\Steven\Source\OrderedMvcActionMethods\obj\Debug\netcoreapp2.2\OrderedMvcActionMethods.AssemblyInfo.cs
+C:\Users\Steven\Source\OrderedMvcActionMethods\obj\Debug\netcoreapp2.2\OrderedMvcActionMethods.RazorTargetAssemblyInfo.cache
+C:\Users\Steven\Source\OrderedMvcActionMethods\obj\Debug\netcoreapp2.2\OrderedMvcActionMethods.dll
+C:\Users\Steven\Source\OrderedMvcActionMethods\obj\Debug\netcoreapp2.2\OrderedMvcActionMethods.pdb
